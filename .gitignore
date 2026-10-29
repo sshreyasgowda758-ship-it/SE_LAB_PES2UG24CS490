@@ -1,0 +1,5 @@
+lab5/before/flight_manifest.txt
+lab5/after/flight_manifest.txt
+__pycache__/
+.pytest_cache/
+.coverage
